@@ -1,0 +1,16 @@
+.fondo{
+    background-color: rosybrown;
+}
+.h1{
+    text-align: center;
+    color: rgb(51, 48, 48);
+}
+
+.h2pedido{
+    text-align: center;
+    color: rgb(51, 48, 48);
+}
+.botones{
+
+    text-align: end;
+}
