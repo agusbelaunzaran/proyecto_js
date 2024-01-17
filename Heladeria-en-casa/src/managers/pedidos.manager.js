@@ -76,7 +76,7 @@ const agregarPedidos =() => {
             if (resp.isConfirmed) {
                Swal.fire({
                   title:"Pedido realizado con exito!",
-                  text:"Gracias por tu compra!",
+                  text:"Se acordaran los sabores deseados y el precio total del pedido en el local físico. Direccion: Av campomar, 3467, Ranchos Bs.As. Argentina. Gracias por su pedido!",
                   icon:"success",
                   })  
        }})  
